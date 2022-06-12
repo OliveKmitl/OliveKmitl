@@ -258,6 +258,25 @@ If you use the code from this project, please cite with the Council of Science E
 ### Place 1
 
 Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
+If you use the code from this project, please cite with the Council of Science Editors (CSE) citation styles as an example below.
+
+    CSE Bibliography Format:
+
+    Niemsiri V. 2022. Bipolar Disorder and Lithium Response. San Francisco (CA): GitHub; [accessed 2022 Jun 6]. URL.
+    If you use the code from this project, please cite with the Council of Science Editors (CSE) citation styles as an example below.
+
+    CSE Bibliography Format:
+
+    Niemsiri V. 2022. Bipolar Disorder and Lithium Response. San Francisco (CA): GitHub; [accessed 2022 Jun 6]. URL.
+    If you use the code from this project, please cite with the Council of Science Editors (CSE) citation styles as an example below.
+
+    CSE Bibliography Format:
+
+    Niemsiri V. 2022. Bipolar Disorder and Lithium Response. San Francisco (CA): GitHub; [accessed 2022 Jun 6]. URL.If you use the code from this project, please cite with the Council of Science Editors (CSE) citation styles as an example below.
+
+    CSE Bibliography Format:
+
+    Niemsiri V. 2022. Bipolar Disorder and Lithium Response. San Francisco (CA): GitHub; [accessed 2022 Jun 6]. URL.
 
 ### Place 2
 
