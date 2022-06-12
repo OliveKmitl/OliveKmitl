@@ -53,7 +53,7 @@ The aim of the study in the manuscript is to identify the genetic contribution i
 
     -   [Features](#features)
 
--   [Project Aim](#ProjectAim)
+-   [Project Aim](##ProjectAim)
 
 -   [The Project Workflow and File Descriptions](#uninstallation)
 
