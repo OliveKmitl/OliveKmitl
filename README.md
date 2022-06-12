@@ -53,7 +53,7 @@ The aim of the study in the manuscript is to identify the genetic contribution i
 
     -   [Features](#features)
 
--   [Project Aim](#Project Aim)
+-   [Project Aim](#Project_Aim)
 
 -   [The Project Workflow and File Descriptions](#uninstallation)
 
@@ -88,7 +88,7 @@ The aim of the study in the manuscript is to identify the genetic contribution i
         -   [Mandatory elements](#mandatory-elements)
 
 ------------------------------------------------------------------------
-## Project Aim
+## Project_Aim
 
 The purpose of this project is to distribute the codes that had been used in the multi-omics analysis of integrated between genome-wide association (GWAS) and RNA-sequencing (RNA-seq) data . The details of methods can be found in 1) the Method section in the main text and 2) the Supplemental Methods of the manuscript [Ref].
 
