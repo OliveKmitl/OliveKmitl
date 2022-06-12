@@ -257,7 +257,7 @@ If you use the code from this project, please cite with the Council of Science E
 
 ### Place 1
 
-Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
+Hello, this is some text to fill in this, [Place 2](#place-2), is a link to the second place.
 If you use the code from this project, please cite with the Council of Science Editors (CSE) citation styles as an example below.
 
     CSE Bibliography Format:
@@ -421,7 +421,7 @@ If you use the code from this project, please cite with the Council of Science E
 
 ### Place 2
 
-Place one has the fun times of linking here, but I can also link back [here](#place-1).
+Place one has the fun times of linking here, but I can also link back [Place 1](#place-1).
 
 
 ### Place's 3: other example
