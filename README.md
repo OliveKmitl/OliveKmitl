@@ -55,7 +55,7 @@ The aim of the study in the manuscript is to identify the genetic contribution i
 
 -   [Project Aim](#Project-Aim)
 
--   [The Project Workflow and File Descriptions](#uninstallation)
+-   [The Project Workflow and File Descriptions](#The-Project-Workflow-and-File-Descriptions)
 
 -   [Available plugins](#available-plugins)
 
