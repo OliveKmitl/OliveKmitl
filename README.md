@@ -47,7 +47,6 @@ The aim of the study in the manuscript is to identify the genetic contribution i
 
 ## Table of Contents
 
-## กดแล้ว มี link
 -   [About Our Project](#envirius)
 
     -   [Idea](#idea)
