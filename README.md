@@ -254,4 +254,6 @@ If you use the code from this project, please cite with the Council of Science E
 ## References
 
 
-- [go to other github account](https://github.com/SommaiGH/master-readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
+- [go to other github account](https://github.com/SommaiGH/master-readme) - external github account.
+- [go to code file of this github account](https://github.com/OliveKmitl/oraganfood/blob/master/oraganfood/getFoodWhereIdShop.php) - internal code file
+
