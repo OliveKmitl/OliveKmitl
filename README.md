@@ -252,3 +252,6 @@ If you use the code from this project, please cite with the Council of Science E
 ------------------------------------------------------------------------
 
 ## References
+
+
+- [ai/size-limit](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
