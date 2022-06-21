@@ -254,6 +254,6 @@ If you use the code from this project, please cite with the Council of Science E
 ## References
 
 
-- [go to www.nbr29.net][(https://nbr29.net) -  external github account.
+- [go to www.nbr29.net](https://nbr29.net) -  external github account.
 - [go to code file of this github account](https://github.com/OliveKmitl/oraganfood/blob/master/oraganfood/getFoodWhereIdShop.php) - internal code file
 
